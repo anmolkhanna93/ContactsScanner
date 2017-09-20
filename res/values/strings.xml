@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">dummy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_dialog">Click to show a dialog</string>
+    <string name="btn_pdialog">Click to display a progress dialog</string>
+    <string name="btn_spdialog">Click to display a detailed progress dialog</string>
+
+</resources>
